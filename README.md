@@ -10,10 +10,10 @@ I am a passionate **Flutter Full-Stack Developer**, dedicated to crafting seamle
 
 ---
 
-📍 **From:** Peshawar, Pakistan  
-🏠 **Currently Living In:** Peshawar, Pakistan  
+📍 **From:** Peshawar KPK, Pakistan  
+🏠 **Currently Living In:** Lahore, Pakistan  
 📞 **Contact:** +92-347-9173656  
-📧 **Email:** umairmustafa.umroo@gmail.com  
+📧 **Email:** info@techummi.com  
 
 ---
 
@@ -22,18 +22,20 @@ I am a passionate **Flutter Full-Stack Developer**, dedicated to crafting seamle
 #### **🖥️ Coding Skills**  
 - ⚡ **Dart**  
 - ⚡ **Kotlin**  
-- ⚡ **HTML + CSS**  
+- ⚡ **HTML + CSS**
+- - ⚡ **Php**  
 - ⚡ **Python**  
 
 #### **🎨 Design Skills**  
 - 🌟 **Flutter UI/UX Design**  
-- 🌟 **Logo Design**  
+- 🌟 **Logo Design**
+- - 🌟 **Canva Logo Design**  
 
 ---
 
 🌱 **Currently Learning:** Advanced Flutter animations and backend optimization.  
 💼 **Looking to Collaborate On:** Cutting-edge mobile app projects that make a difference!  
-📫 **How to Reach Me:** Email me at **umairmustafa.umroo@gmail.com**  
+📫 **How to Reach Me:** Email me at **info@techummi.com**  
 
 ---
 
