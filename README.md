@@ -23,13 +23,13 @@ I am a passionate **Flutter Full-Stack Developer**, dedicated to crafting seamle
 - ⚡ **Dart**  
 - ⚡ **Kotlin**  
 - ⚡ **HTML + CSS**
-- - ⚡ **Php**  
+- ⚡ **Php**  
 - ⚡ **Python**  
 
 #### **🎨 Design Skills**  
 - 🌟 **Flutter UI/UX Design**  
 - 🌟 **Logo Design**
-- - 🌟 **Canva Logo Design**  
+- 🌟 **Canva Logo Design**  
 
 ---
 
